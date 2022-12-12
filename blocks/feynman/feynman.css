@@ -5,8 +5,7 @@
     flex-direction: column;
     position: relative;
     height: 890px;
-    background-color: white;
     padding-top: 100px;
     text-align: center;
-    background: url("../../images/feynman.png") no-repeat 0% 100%;
+    background: url("../../images/feynman.png") no-repeat 0% 100% #f2f2f2;
 }

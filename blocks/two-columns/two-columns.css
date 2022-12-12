@@ -1,9 +1,10 @@
 .two-columns {
+    margin: auto;
     width: 80%;
-    min-height: 400px;
     flex-direction: row;
     display: flex;
     font-family: 'Helvetica Neue', sans-serif;
     justify-content: space-between;
+
 
 }
